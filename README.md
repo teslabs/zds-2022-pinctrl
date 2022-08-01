@@ -6,6 +6,8 @@
 This repository contains the slides for the "Deep dive into in control in
 Zephyr" talk given at the Zephyr Development Summit 2022.
 
+[![Video](http://img.youtube.com/vi/bcTekbGN-Pk/0.jpg)](http://www.youtube.com/watch?v=bcTekbGN-Pk "Deep Dive into Pin Control in Zephyr")
+
 ## Build
 
 The slides are written using the `beamer` LaTeX class. They can be built
